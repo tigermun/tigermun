@@ -33,4 +33,3 @@ I’m currently learning at programming School 21.
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/enikeev_tg)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/enikeev_tg/)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=tigermun.tigermun)
