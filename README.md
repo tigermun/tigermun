@@ -1,6 +1,7 @@
-## Hey there!
+## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
 ### Tagir Enikeev here
-I’m currently learning at programming School 21.
+I’m studying at @SENATOROVAI
 
 
 > Хороший код у всех свой
